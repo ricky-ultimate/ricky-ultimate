@@ -9,3 +9,4 @@ I've been living on the base of Robotics and web development and creating user f
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
   I love to code with TypeScript and sometimes CoffeeScript
+  Big time weeb/otaku/anime enthusiast
