@@ -20,5 +20,5 @@ I've been living on the base of Robotics and web development and creating user f
 </p>
 
 
-![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=highcontrast)
+![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
 
