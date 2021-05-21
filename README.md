@@ -13,6 +13,6 @@ I've been living on the base of Robotics and web development and creating user f
   Big time weeb/otaku/anime enthusiast
 
 
-![RickyUltmate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltmate-innov&show_icons=true&theme=radical)
+![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<RickyUltimate-innov>&theme=<radical>" />
