@@ -13,5 +13,5 @@ I've been living on the base of Robotics and web development and creating user f
   Big time weeb/otaku/anime enthusiast
 
 
-![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=synthwave)
+![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=cobalt)
 
