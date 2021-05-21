@@ -10,4 +10,4 @@ I've been living on the base of Robotics and web development and creating user f
 
   I love to code with TypeScript and sometimes CoffeeScript
   
-  Big time weeb/otaku/anime enthusiast metal
+  Big time weeb/otaku/anime enthusiast
