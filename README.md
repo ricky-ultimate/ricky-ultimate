@@ -11,3 +11,7 @@ I've been living on the base of Robotics and web development and creating user f
   I love to code with TypeScript and sometimes CoffeeScript
   
   Big time weeb/otaku/anime enthusiast
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<RickyUltimate-innov>&theme=<radical>" />
