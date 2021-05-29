@@ -21,6 +21,8 @@ I've been living on the base of Robotics and web development and creating user f
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
