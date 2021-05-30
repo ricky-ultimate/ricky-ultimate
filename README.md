@@ -13,7 +13,7 @@ I've been living on the base of Robotics and web development and creating user f
   Big time weeb/otaku/anime enthusiast
   
   ## 🧰 Languages and Tools:
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -23,7 +23,6 @@ I've been living on the base of Robotics and web development and creating user f
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 
 ##  Find me elsewhere
@@ -33,6 +32,7 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://www.pinterest.com/RickyUltimate_innov"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" ></a>
 <a href="https://www.quora.com/RickyUltimate-Innov"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://codepen.io/RickyUltimate-innov"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/16071159/rickyultimate-innov"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 
 ![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
