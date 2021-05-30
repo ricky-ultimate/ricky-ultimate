@@ -26,6 +26,10 @@ I've been living on the base of Robotics and web development and creating user f
 </p>
 
 
+##  Find me elsewhere
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/rickyultimate.io">
+
 
 ![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
 
