@@ -31,6 +31,8 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://instagram.com/rickyultimate.io"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://twitter.com/rickyogigi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.pinterest.com/RickyUltimate_innov"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" ></a>
+<a href="https://www.quora.com/RickyUltimate-Innov"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
+<a href="https://codepen.io/RickyUltimate-innov"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
 
 ![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
