@@ -33,7 +33,7 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://www.quora.com/RickyUltimate-Innov"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://codepen.io/RickyUltimate-innov"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/16071159/rickyultimate-innov"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-
+<a href="https://discord.gg/xVkhmZzDJw"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
 
