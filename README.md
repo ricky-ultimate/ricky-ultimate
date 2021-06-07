@@ -48,8 +48,6 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://discord.gg/xVkhmZzDJw"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br /><br /><br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyUltimate-innov&theme=dark" alt="RickyUltimate-innov" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyUltimate-innov&show_icons=true&theme=dark&locale=en&layout=compact" alt="RickyUltimate-innov" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyUltimate-innov&theme=dark" alt="RickyUltimate-innov" />    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyUltimate-innov&show_icons=true&theme=dark&locale=en&layout=compact" alt="RickyUltimate-innov" />
 
 
