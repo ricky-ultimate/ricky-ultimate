@@ -35,9 +35,7 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://stackoverflow.com/users/16071159/rickyultimate-innov"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://discord.gg/xVkhmZzDJw"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyUltimate-innov&theme=dark" alt="RickyUltimate-innov" /></p>
+![RickyUltimate-innov GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyUltimate-innov&show_icons=true&theme=tokyonight<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyUltimate-innov&theme=dark" alt="RickyUltimate-innov" />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitasri&show_icons=true&theme=dark&locale=en&layout=compact" alt="RickyUltimate-innov" />
  </p>
