@@ -33,9 +33,12 @@ I've been living on the base of Robotics and web development and creating user f
 <h4>Other skills</h4>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 
+
+
+<br /><br /><br /><br />
 ##  Find me elsewhere
 
 <a href="https://instagram.com/rickyultimate.io"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -45,7 +48,10 @@ I've been living on the base of Robotics and web development and creating user f
 <a href="https://codepen.io/RickyUltimate-innov"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/16071159/rickyultimate-innov"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://discord.gg/xVkhmZzDJw"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<br /><br />
+
+
+
+<br /><br /><br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyUltimate-innov&theme=dark" alt="RickyUltimate-innov" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyUltimate-innov&show_icons=true&theme=dark&locale=en&layout=compact" alt="RickyUltimate-innov" />
 
