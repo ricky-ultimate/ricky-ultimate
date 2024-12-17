@@ -15,7 +15,7 @@
   
   <!-- DARK MODE -->
   <a href="https://github.com/ricky-ultimate#gh-dark-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ricky-ultimate&show_icons=true&include_all_commits=true&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ricky-ultimate&show_icons=true&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
   </a>
   
   <a href="https://github.com/ricky-ultimate#gh-dark-mode-only">
