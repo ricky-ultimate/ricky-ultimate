@@ -6,7 +6,7 @@
 
   <!-- LIGHT MODE -->
   <a href="https://github.com/ricky-ultimate#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ricky-ultimate&show_icons=true&include_all_commits=true&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ricky-ultimate&show_icons=true&card_width=440&theme=light&title_color=131820&icon_color=131820" />
   </a>
   
   <a href="https://github.com/ricky-ultimate#gh-light-mode-only">
